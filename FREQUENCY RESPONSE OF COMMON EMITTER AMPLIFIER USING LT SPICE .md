@@ -27,10 +27,12 @@
 ## Tabulation
 
 ## Graph
+![WhatsApp Image 2026-03-27 at 2 31 19 PM (1)](https://github.com/user-attachments/assets/c6442fdd-b30d-435d-a0ed-8a8e4986f426)
 
 
 ## **Result**
-<img width="787" height="63" alt="image" src="https://github.com/user-attachments/assets/96610a01-3638-4c67-8c6f-b3e6d2b1cc80" />
+<img width="787" height="63" alt="image" src="https:![WhatsApp Image 2026-03-27 at 2 33 47 PM](https://github.com/user-attachments/assets/44e4b6c0-2412-4e11-b785-03a71da98186)
+//github.com/user-attachments/assets/96610a01-3638-4c67-8c6f-b3e6d2b1cc80" />
 
 **VOLTAGE GAIN =**
 
